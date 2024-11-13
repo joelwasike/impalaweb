@@ -46845,7 +46845,7 @@ o.J(new A.aAu(o))
 d=t.N
 l=A.I(["phone",m],d,e)
 k=A.I(["Content-Type","application/json"],d,d)
-j=A.bz("https://apiapi.investpo.co /beneficiaries",0,null)
+j=A.bz("https://apiapi.investpo.co/beneficiaries",0,null)
 s=6
 return A.L(A.dy(j,B.y.jb(l,null),k),$async$lx)
 case 6:i=a0
